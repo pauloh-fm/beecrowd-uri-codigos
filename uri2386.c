@@ -20,7 +20,7 @@ int main(){
     nEstrelas--;
     }
     // imprimir quantidade de estrelas percebidas
-    printf("%d",PUPILA);
+    printf("%d\n",qtdEstrelas);
 
     return 0;
 }
